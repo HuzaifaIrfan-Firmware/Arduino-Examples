@@ -5,11 +5,11 @@ char KEYS0[] = {
   '1', '2', '3', 'A'
 };
 
-char KEYS2[] = {
+char KEYS1[] = {
   '4', '5', '6', 'B'
 };
 
-char KEYS1[] = {
+char KEYS2[] = {
   '7', '8', '9', 'C'
 };
 
